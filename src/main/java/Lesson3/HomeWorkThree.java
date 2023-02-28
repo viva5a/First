@@ -1,4 +1,4 @@
-package ThreeLesson;
+package Lesson3;
 
 
 public class HomeWorkThree {
