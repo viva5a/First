@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1ccc975-1a99-4d2b-9339-be5a17df86cb" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/CelebrationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Lesson7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/ApplicationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/Components/DigitsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/Components/OperatorJButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/listeners/Button/ButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/listeners/Button/ClearFieldButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson1/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Lesson1/Lesson1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson3/HomeWorkThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/HomeWorkThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson4/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4/TicTacToe.java" afterDir="false" />
+    </list>
+    <list id="ca1c777b-2ad2-48aa-a618-b10f3c0fa866" name="New changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Lesson2/ForTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Lesson2/Lesson2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Lesson2/SwitchTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2LXVOwY1QzW2NSDb1q08Cvh7blV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Project/First",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "build.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lesson5" />
+      <recent name="TwoClass" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project\First\target\generated-sources\annotations" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson8.Components" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="arr[0]=1;" />
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lesson8.Main">
+    <configuration name="CelebrationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CelebrationApp" />
+      <module name="First" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3.HomeWorkThree" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LIMIT_OF_CYCLE" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.LIMIT_OF_CYCLE" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.Lesson1" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.Main" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.Main" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5.Main" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prakrit" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeLesson.Prakrit" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeLesson.Lesson1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeLesson.Lesson1" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.WhileTest" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lesson8.Main" />
+        <item itemvalue="Application.Lesson6.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HomeWorkThree" />
+        <item itemvalue="Application.CelebrationApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1ccc975-1a99-4d2b-9339-be5a17df86cb" name="Changes" comment="" />
+      <changelist id="ca1c777b-2ad2-48aa-a618-b10f3c0fa866" name="New changelist" comment="" />
+      <created>1676017388450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676017388450</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commite">
+      <created>1676986102517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676986102517</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1677604875314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677604875314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1677751207659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677751207659</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1677751446553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677751446553</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commite" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+</project>
